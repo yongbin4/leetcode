@@ -10,12 +10,6 @@
 // nums1 = [1, 3, 5, 8, 9]
 // nums2 = [2, 4, 6, 7]
 
-// logic 
-// starting with the list that the first element is lower
-// append to the merged array
-// move to next item if that list is appended
-
-
 
 
 var merge = function(nums1, m, nums2, n) {
