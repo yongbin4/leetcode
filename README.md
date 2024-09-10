@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
+| [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
