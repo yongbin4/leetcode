@@ -33,6 +33,7 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1833-find-the-highest-altitude](https://github.com/yongbin4/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/yongbin4/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
