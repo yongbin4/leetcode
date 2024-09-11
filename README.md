@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
+| [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
@@ -50,5 +51,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yongbin4/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
