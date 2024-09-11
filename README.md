@@ -60,5 +60,6 @@
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/yongbin4/leetcode/tree/master/0620-not-boring-movies) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yongbin4/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
