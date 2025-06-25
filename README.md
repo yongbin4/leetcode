@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yongbin4/leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -32,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yongbin4/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yongbin4/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yongbin4/leetcode/tree/master/0027-remove-element) |
