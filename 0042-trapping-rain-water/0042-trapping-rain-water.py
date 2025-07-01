@@ -46,24 +46,18 @@ class Solution:
         
         while start < end:
             if height[start] <= height[end]:
-                # If start is lower or equal, process from start side
                 current_height = height[start]
                 start += 1
-                # Add water for all positions lower than current_height
                 while start < end and height[start] < current_height:
                     water += current_height - height[start]
                     start += 1
             else:
-                # If end is lower, process from end side
                 current_height = height[end]
                 end -= 1
-                # Add water for all positions lower than current_height
                 while start < end and height[end] < current_height:
                     water += current_height - height[end]
                     end -= 1
-        
         return water
-
 
             
                 
