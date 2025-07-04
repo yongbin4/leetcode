@@ -17,9 +17,9 @@ class Solution:
             if position not in visited:
                 visited.add(position)
 
-            for jump_length in range(1, nums[position] + 1):
-                current_position = jump_length + position
-                if current_position not in visited:
-                    stack.append(current_position)
+                for jump_length in range(1, nums[position] + 1):
+                    current_position = jump_length + position
+                    if current_position not in visited:
+                        stack.append(current_position)
 
         return False
