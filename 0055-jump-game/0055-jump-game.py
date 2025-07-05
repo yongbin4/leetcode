@@ -1,22 +1,20 @@
 from typing import List
 
 class Solution:
-    def canJump(self,nums):
-        if not nums or len(nums) <= 1:
-            return True
-    
-        max_reach = 0  # Maximum index we can reach
+    def canJump(self, nums):
+        max_current = 0
         
-        for i in range(len(nums)):
-            # If current index is beyond our reach, we can't proceed
-            if i > max_reach:
+        if len(nums) == 0 or len(nums) == 1:
+            return True
+
+        for position in range(len(nums)):
+
+            if position > max_current:
                 return False
-            
-            # Update maximum reachable index
-            max_reach = max(max_reach, i + nums[i])
-            
-            # If we can reach the last index, return True
-            if max_reach >= len(nums) - 1:
+
+            max_current = max(max_current, position + nums[position])
+            if max_current >= len(nums) - 1:
                 return True
         
         return False
+        
