@@ -1,25 +1,22 @@
 from typing import List
 
 class Solution:
-    def canJump(self, nums: List[int]) -> bool:
-        nums_length = len(nums)
-        stack = [0]
-        # store the visited positions
-        visited = set()
-
-        # while stack is not empty
-        while stack:
-            position = stack.pop()
-
-            if position >= nums_length - 1:
-                return True
+    def canJump(self,nums):
+        if not nums or len(nums) <= 1:
+            return True
+    
+        max_reach = 0  # Maximum index we can reach
+        
+        for i in range(len(nums)):
+            # If current index is beyond our reach, we can't proceed
+            if i > max_reach:
+                return False
             
-            if position not in visited:
-                visited.add(position)
-
-                for jump_length in range(1, nums[position] + 1):
-                    current_position = jump_length + position
-                    if current_position not in visited:
-                        stack.append(current_position)
-
+            # Update maximum reachable index
+            max_reach = max(max_reach, i + nums[i])
+            
+            # If we can reach the last index, return True
+            if max_reach >= len(nums) - 1:
+                return True
+        
         return False
