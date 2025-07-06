@@ -1,63 +1,36 @@
-# class Solution:
-#     def trap(self, height: List[int]) -> int:
-#         boundary = self.boundary(height)
-#         print(boundary)
-#         min_height = 0
-#         water = 0
-#         for i in range(0,len(boundary), 2):
-#             min_height = min(height[boundary[i]],height[boundary[i+1]])
-#             for j in range(boundary[i], boundary[i+1]):
-#                 if j == 0:
-#                     pass
-#                 else:
-#                     water += height[boundary[i]] - height[j]
-#         return water
-
-#     def boundary(self, height: List[int]) -> List[int]:
-#         boundary = []
-#         i = 0
-#         while i < len(height) - 1:
-#             for j in range(i+1,len(height)):
-#                 if height[i] > height[j]:
-#                     if j == len(height) - 1:
-#                         i += 1
-#                     else:
-#                         pass
-#                 else:
-#                     if i == 0 and height[i] == 0:
-#                         i = j
-#                         break
-#                     else:
-#                         pass
-#                     boundary.append(i)
-#                     i = j
-#                     boundary.append(j)
-#                     break    
-#         return boundary   
-
-# if the first block and the last block is the same size the next bllck that is less must create water
-# 
-
-class Solution:
-    def trap(self, height: List[int]) -> int:
-        start = 0
-        end = len(height) - 1
-        water = 0
-        
-        while start < end:
-            if height[start] <= height[end]:
-                current_height = height[start]
-                start += 1
-                while start < end and height[start] < current_height:
-                    water += current_height - height[start]
-                    start += 1
+class Solution(object):
+    def trap(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        # track highest bar from left and right
+        n = len(height)
+        left_height, right_height = [0] * n, [0] * n
+        for i in range(n):
+            if i == 0:
+                left_height[i] = height[i]
             else:
-                current_height = height[end]
-                end -= 1
-                while start < end and height[end] < current_height:
-                    water += current_height - height[end]
-                    end -= 1
-        return water
-
+                left_height[i] = max(height[i], left_height[i-1])
+        
+        for i in range(n-1, -1, -1):
+            if i == len(height)-1:
+                right_height[i] = height[i]
+            else:
+                right_height[i] = max(height[i], right_height[i+1])
+        
+        # height =     [0,1,0,2,1,0,1,3,2,1,2,1]
+        # left_height= [0,1,1,2,2,2,2,3,3,3,3,3]
+        #right_height= [3,3,3,3,3,3,3,3,2,2,2,1]
+        #smaller_height[0,1,1,2,2,2,2,3,2,2,2,1]
+        smaller_height = []
+        for i in range(n):
+            smaller_height.append(min(left_height[i], right_height[i]))
+        
+        result = 0
+        for i in range(n):
+            result += smaller_height[i] - height[i]
             
-                
+        return result
+        
+        
