@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yongbin4/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/yongbin4/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
@@ -40,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yongbin4/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/yongbin4/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/yongbin4/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yongbin4/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/yongbin4/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
