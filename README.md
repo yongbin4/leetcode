@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yongbin4/leetcode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
