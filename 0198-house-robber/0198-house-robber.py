@@ -10,17 +10,10 @@ class Solution(object):
         for i in range(len(nums)):
             if i == 0:
                 dp[i] = nums[i]
-                print(dp)
             elif i == 1:
-                if dp[i-1] > nums[i]:
-                    dp[i] = dp[i-1]
-                else:
-                    dp[i] = nums[i]
+                dp[i] = max(nums[i], dp[i-1])
             else:
-                if dp[i-1] > nums[i] + dp[i-2]:
-                    dp[i] = dp[i-1]
-                else:
-                    dp[i] = nums[i] + dp[i-2]
+                dp[i] = max(dp[i-1], nums[i] + dp[i-2])
         return dp[-1]
 
         
