@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yongbin4/leetcode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -33,6 +35,7 @@
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yongbin4/leetcode/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
@@ -49,6 +52,7 @@
 | [0045-jump-game-ii](https://github.com/yongbin4/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
+| [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yongbin4/leetcode/tree/master/0198-house-robber) |
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -119,4 +123,9 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
