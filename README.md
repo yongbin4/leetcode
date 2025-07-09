@@ -24,6 +24,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0045-jump-game-ii](https://github.com/yongbin4/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
