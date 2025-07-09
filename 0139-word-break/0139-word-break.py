@@ -5,20 +5,21 @@ class Solution(object):
         :type wordDict: List[str]
         :rtype: bool
         """
+        # 0 - 7
         n = len(s)
-        dp = [False] * (n)
-        
+        # 0 - 8
+        dp = [False] * (n + 1)
+        dp[0] = True
+
+        # i: 1 - 8
         for i in range(1, n + 1):
-        # First check if s[0:i+1] is directly in dictionary
-            if s[0:i] in wordDict:
-                dp[i-1] = True
-                continue
-            
-            # Otherwise, check all possible split points j before position i
-            for j in range(1,i):
-                # If s[0:j+1] can be segmented AND s[j+1:i+1] is a valid word
-                if dp[j-1] and s[j:i] in wordDict:
-                    dp[i-1] = True
-                    break
+            # j: 0 - 7
+            for j in range(i):
+                if dp[j] == True and s[j:i] in wordDict:
+                    dp[i] = True
+        return dp[-1] 
+
+
+        
 
         return dp[-1]
