@@ -35,6 +35,7 @@
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yongbin4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yongbin4/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yongbin4/leetcode/tree/master/0322-coin-change) |
@@ -54,6 +55,7 @@
 | [0045-jump-game-ii](https://github.com/yongbin4/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yongbin4/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yongbin4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yongbin4/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yongbin4/leetcode/tree/master/0322-coin-change) |
