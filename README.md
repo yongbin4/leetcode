@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/yongbin4/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
@@ -89,6 +90,7 @@
 | [0027-remove-element](https://github.com/yongbin4/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/yongbin4/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/yongbin4/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
