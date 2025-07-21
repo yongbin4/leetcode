@@ -63,6 +63,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/yongbin4/leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/yongbin4/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
+| [1803-average-waiting-time](https://github.com/yongbin4/leetcode/tree/master/1803-average-waiting-time) |
 ## Memoization
 |  |
 | ------- |
