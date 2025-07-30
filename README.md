@@ -17,6 +17,7 @@
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/yongbin4/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
@@ -40,6 +41,7 @@
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/yongbin4/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yongbin4/leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/yongbin4/leetcode/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yongbin4/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/yongbin4/leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yongbin4/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
