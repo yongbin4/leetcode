@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yongbin4/leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/yongbin4/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -16,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/yongbin4/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/yongbin4/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/yongbin4/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
