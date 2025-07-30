@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yongbin4/leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/yongbin4/leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/yongbin4/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yongbin4/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -31,6 +32,7 @@
 | [0062-unique-paths](https://github.com/yongbin4/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/yongbin4/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yongbin4/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/yongbin4/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yongbin4/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yongbin4/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/yongbin4/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/yongbin4/leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/yongbin4/leetcode/tree/master/1894-merge-strings-alternately) |
