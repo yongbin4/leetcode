@@ -1,16 +1,20 @@
-class Solution:
-    def maxArea(self, height: List[int]) -> int:
+class Solution(object):
+    def maxArea(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        # left and right two pointer
+        # left index starts and right index moves and always return the maximum water volume
+        # move the left index when one loop is done
+        
         left = 0
         right = len(height) - 1
-        maxWater = 0
-
+        max_water = 0
         while left < right:
-            minHeight = min(height[left], height[right])
-            maxWater = max(maxWater, minHeight*(right-left))
+            max_water = max(max_water, min(height[left], height[right]) * (right - left))
             if height[left] < height[right]:
                 left += 1
             else:
                 right -= 1
-        return maxWater
-            
-            
+        return max_water
