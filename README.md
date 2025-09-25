@@ -9,6 +9,7 @@
 | [0202-happy-number](https://github.com/yongbin4/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yongbin4/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yongbin4/leetcode/tree/master/0383-ransom-note) |
+| [1217-relative-sort-array](https://github.com/yongbin4/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
@@ -68,6 +69,7 @@
 | [0198-house-robber](https://github.com/yongbin4/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yongbin4/leetcode/tree/master/0322-coin-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/yongbin4/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1217-relative-sort-array](https://github.com/yongbin4/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yongbin4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/yongbin4/leetcode/tree/master/1803-average-waiting-time) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yongbin4/leetcode/tree/master/0088-merge-sorted-array) |
+| [1217-relative-sort-array](https://github.com/yongbin4/leetcode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/yongbin4/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yongbin4/leetcode/tree/master/0322-coin-change) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/yongbin4/leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
